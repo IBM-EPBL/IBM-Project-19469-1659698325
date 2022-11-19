@@ -1,6 +1,6 @@
 ![This is an image](https://user-images.githubusercontent.com/113886885/201464675-de2148ba-70e6-44b3-8a1b-4c29c09ad3c3.png)
 #  INDUSTRY-SPECIFIC INTELLIGENT FIRE MANAGEMENT SYSTEM
-## https://github.com/IBM-EPBL/IBM-Project-19469-1659698325/edit/main/README.md
+## https://github.com/IBM-EPBL/IBM-Project-19469-1659698325
 ### :man_student:Team Leader: Madhumitha G
 ### :man_student:Team members: Harish kumar CSG , Akshaya Lakshmi E, Anuranjan GT
 ### :man_student:Team ID:PNT2022TMID27908

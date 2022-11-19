@@ -1,6 +1,6 @@
 ![This is an image](https://user-images.githubusercontent.com/113886885/201464675-de2148ba-70e6-44b3-8a1b-4c29c09ad3c3.png)
 # * INDUSTRY-SPECIFIC INTELLIGENT FIRE MANAGEMENT SYSTEM*
-## IBM-Project-21200-1659775106
+## IBM-Project-https://github.com/IBM-EPBL/IBM-Project-19469-1659698325/edit/main/README.md
 ### :man_student:Team Leader: Madhumitha G
 ### :man_student:Team members: Harish kumar CSG , Akshaya Lakshmi E, Anuranjan GT
 ### :man_student:Team ID:PNT2022TMID27908
@@ -11,5 +11,4 @@ Fire accidents in industries kill more people every year. While controlled fire 
 * Connecting IoT devices to the Watson IoT platform and exchanging the sensor data.
 * Gain knowledge on Cloudant DB
 * Creating a Web Application through which the user interacts with the device.
-## ARCHITECTURE
-![This is an image](C:\Users\Harish\Downloads\IMG_20221119_113840 (1).png)
+

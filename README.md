@@ -12,4 +12,4 @@ Fire accidents in industries kill more people every year. While controlled fire 
 * Gain knowledge on Cloudant DB
 * Creating a Web Application through which the user interacts with the device.
 ## ARCHITECTURE
-![This is an image](C:\Users\Harish\Downloads\IMG_20221119_113840.jpg)
+![This is an image](file:///C:/Users/Harish/Downloads/IMG_20221119_113840.jpg)
